@@ -4,6 +4,8 @@
 
 2) 1번에 추가로 Delete 구현함.
 
+3) 2번에 추가로 Update 구현함.
+
 ## 사용 방법
 
     lein ring server
